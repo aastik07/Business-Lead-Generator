@@ -9,7 +9,8 @@ __pycache__/
 *.pyo
 
 # Excel output files
-output/
+output/*
+!output/.gitkeep
 
 # Environment variables
 .env
